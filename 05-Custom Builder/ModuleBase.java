@@ -1,0 +1,1 @@
+package com.mahdi.dagger;import dagger.Binds;import dagger.Module;@Modulepublic abstract class ModuleBase {    @Binds    abstract Base getBase(Apple apple);}
