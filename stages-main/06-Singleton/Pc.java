@@ -1,9 +1,10 @@
 package com.mahdi.dagger;
-
+//importing
 import android.util.Log;
 import javax.inject.Inject;
 import javax.inject.Singleton;
 
+//dagger base
 @Singleton
 public class Pc {
 
